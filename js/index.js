@@ -2,5 +2,5 @@
 //
 // Iteration 2: Conditionals
 
-
+console.log("I'm ready!");
 // Iteration 3: Loops
